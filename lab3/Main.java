@@ -22,7 +22,7 @@ public class Main {
 
     System.out.println("best-case elapsed time: " + bestCaseElapsedTime + " ns");
 
-    String worstCase = "9";
+    String worstCase = "-";
 
     // * Initialize startTime here
     long worstCaseStartTime = System.nanoTime();
